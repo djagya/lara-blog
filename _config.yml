@@ -16,8 +16,13 @@
 title: Блог любимой Коши
 email: lara@explorelabs.io
 description: >
+<<<<<<< HEAD
   Фффшух!!
 author: Киса Закаблупал
+=======
+  Кряяяя!!
+author: Лара Закаблупал
+>>>>>>> lara changes
 baseurl: ""
 url: "http://blog.laraexplores.today"
 twitter_username: larisa_zz
