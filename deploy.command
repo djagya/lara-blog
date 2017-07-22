@@ -10,7 +10,8 @@ fi
 
 git add .
 git commit -m "lara changes"
-git pull --rebase --no-edit all master
+git fetch origin master
+git merge -s recursive -X yours origin/master
 git push -f all master
 
 echo -e "\033[0;31mЯ люблю тебя, Лара <3"
