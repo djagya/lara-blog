@@ -15,4 +15,4 @@ git push -f all master
 
 echo "Я люблю тебя, Лара <3"
 
-sleep 3
+sleep 15
