@@ -27,6 +27,7 @@ instagram_username: larisazz
 markdown: kramdown
 theme: minima
 
+permalink: pretty
 date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
 
