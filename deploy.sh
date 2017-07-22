@@ -10,7 +10,8 @@ fi
 
 git add .
 git commit -m "lara changes"
-git push all --all
+git pull all master
+git push -f all master
 
 echo "Я люблю тебя, Лара <3"
 
