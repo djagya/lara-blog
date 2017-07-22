@@ -13,6 +13,6 @@ git commit -m "lara changes"
 git pull all master
 git push -f all master
 
-echo "Я люблю тебя, Лара <3"
+echo -e "\033[0;31mЯ люблю тебя, Лара <3"
 
 sleep 3
