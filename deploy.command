@@ -10,7 +10,7 @@ fi
 
 git add .
 git commit -m "lara changes"
-git pull -f —no-edit all master
+git pull -f -—no-edit all master
 git push -f all master
 
 echo -e "\033[0;31mЯ люблю тебя, Лара <3"
