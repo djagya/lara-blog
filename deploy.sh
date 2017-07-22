@@ -12,4 +12,6 @@ git add .
 git commit -m "lara changes"
 git push all --all
 
-sleep 10
+echo "Я люблю тебя, Лара <3"
+
+sleep 3
