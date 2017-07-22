@@ -16,3 +16,4 @@ git push -f all master
 echo -e "\033[0;31mЯ люблю тебя, Лара <3"
 
 sleep 3
+exit 0
