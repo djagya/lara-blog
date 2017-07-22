@@ -11,7 +11,7 @@ fi
 git add .
 git commit -m "lara changes"
 git fetch origin master
-git merge --no-edit -s recursive -X yours origin/master
+git merge --no-edit -s recursive -X theirs origin/master
 git push -f all master
 
 echo -e "\033[0;31mЯ люблю тебя, Лара <3"
