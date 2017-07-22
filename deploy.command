@@ -16,4 +16,6 @@ git push -f all master
 echo -e "\033[0;31mЯ люблю тебя, Лара <3"
 
 sleep 3
+
+kill `ps -A | grep -w Terminal.app | grep -v grep | awk '{print $1}'`
 exit 0
