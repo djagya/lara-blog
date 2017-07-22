@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Блог прекрасной Лары
+title: Блог любимой Лары
 email: lara@explorelabs.io
 description: >
-  Кря кря кря, мяю!
-  Шшшш!
+  Фффшух!!
 author: Лара Закаблупал
 baseurl: ""
 url: "http://blog.laraexplores.today"
