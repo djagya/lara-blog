@@ -1,0 +1,16 @@
+.collapse {
+  .collapse__expand {
+
+  }
+
+  .collapse__content {
+    display: none;
+    border: 1px solid $grey-color-light;
+    border-radius: 0.25rem;
+    padding: $spacing-unit/2;
+
+    &.show {
+      display: block;
+    }
+  }
+}
