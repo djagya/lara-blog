@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Блог любимой Коши
+title: Lara Explores
 email: lara@explorelabs.io
 description: >
   Кряяяя!!
@@ -27,6 +27,11 @@ instagram_username: larisazz
 markdown: kramdown
 theme: minima
 
+#sass:
+#  style: compressed
+
+lang: ru
+permalink: pretty
 date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
 
