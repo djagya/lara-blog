@@ -209,4 +209,12 @@
   h4 {
     font-size: 1.125rem;
   }
+
+  hr {
+    width: 50%;
+    margin: 1rem auto;
+    background-color: $grey-color-dark;
+    border: none;
+    height: 1px;
+  }
 }
