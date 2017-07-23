@@ -4,20 +4,21 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Мои записи и послания человеческому роду</h1>
-  
-  {{ content }}
+    <h1 class="page-heading">Мои записи и послания человеческому роду</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.date_format %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+    {{ content }}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            {% assign date_format = site.date_format %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <h2>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            <p>{{ post.excerpt | strip_html }}</p>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
