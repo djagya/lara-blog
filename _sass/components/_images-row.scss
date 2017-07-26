@@ -1,0 +1,22 @@
+.images-row {
+  display: flex;
+  max-height: 35rem;
+  align-items: center;
+  overflow: hidden;
+  margin: 2rem 0;
+
+  @include media-query($on-palm) {
+    max-height: 14rem;
+  }
+
+  .images-row__wrapper {
+    padding: 1rem;
+    width: 100%;
+  }
+
+  .images-row__img {
+    padding-bottom: 135%;
+    background: no-repeat center center;
+    background-size: cover;
+  }
+}

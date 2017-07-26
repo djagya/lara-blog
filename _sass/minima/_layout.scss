@@ -150,23 +150,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
-    position: relative;
-
-    @media screen and (min-width: $content-width + 4rem) {
-      .post-meta {
-        position: absolute;
-        left: -4rem;
-        top: 0.5rem;
-        text-align: right;
-        max-width: 3rem;
-      }
-    }
   }
-}
-
-.post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
 }
 
 .post-link {
@@ -218,3 +202,19 @@
     height: 1px;
   }
 }
+
+.post-meta {
+  color: $grey-color;
+  position: relative;
+
+  @media screen and (min-width: $content-width + 6rem) {
+    p {
+      position: absolute;
+      left: -6rem;
+      top: 2rem;
+      text-align: right;
+      max-width: 4rem;
+    }
+  }
+}
+
