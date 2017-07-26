@@ -11,5 +11,12 @@
 
   .images-row__wrapper {
     padding: 1rem;
+    width: 100%;
+  }
+
+  .images-row__img {
+    padding-bottom: 135%;
+    background: no-repeat center center;
+    background-size: cover;
   }
 }

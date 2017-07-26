@@ -1,3 +1,5 @@
+require 'rexml/document'
+
 module Jekyll
   class ImagesBlock < Liquid::Block
 
@@ -9,10 +11,15 @@ module Jekyll
     def render(context)
       converter = context.registers[:site].find_converter_instance(::Jekyll::Converters::Markdown)
       content = converter.convert(super(context))
-      images = content.gsub("<p>", "").gsub("</p>", "").split("\n").reject(&:empty?)
+
+      doc = REXML::Document.new(content)
+      images = doc.get_elements('//p/img')
 
       output = '<div class="images-row">'
-      images.each {|img| output += '<div class="images-row__wrapper">' + img + '</div>'}
+      images.each {|img| output += "<div class='images-row__wrapper'>"\
+        "<div class='images-row__img' style=\"background-image:url('#{img.attribute('src').to_s}')\"></div>"\
+        "</div>"
+      }
       output += '</div>'
 
       output
