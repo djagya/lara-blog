@@ -34,6 +34,8 @@ lang: ru
 permalink: pretty
 date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
+disqus:
+  shortname: laraexplores
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

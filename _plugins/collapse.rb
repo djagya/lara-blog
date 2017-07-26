@@ -10,7 +10,7 @@ module Jekyll
       converter = context.registers[:site].find_converter_instance(::Jekyll::Converters::Markdown)
       content = converter.convert(super(context))
 
-      output = "<div class='collapse'><a href='#' class='collapse__expand'>#{@text}</a><div class='collapse__content'>#{content}</div></div>"
+      output = "<div class='collapse'><a href='#' class='collapse__expand'>> #{@text}</a><div class='collapse__content'>#{content}</div></div>"
 
       return output
     end
