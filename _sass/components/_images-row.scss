@@ -1,0 +1,15 @@
+.images-row {
+  display: flex;
+  max-height: 35rem;
+  align-items: center;
+  overflow: hidden;
+  margin: 1rem 0 ;
+
+  @include media-query($on-palm) {
+    max-height: 14rem;
+  }
+
+  .images-row__wrapper {
+    padding: 1rem;
+  }
+}
