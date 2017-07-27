@@ -46,5 +46,31 @@
 
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+  window.ALGOLIA_CONFIG = {
+    'applicationId': '{{ site.algolia.application_id }}',
+    'indexName': '{{ site.algolia.index_name }}',
+    'apiKey': '{{ site.algolia.read_only_api_key }}',
+    'baseurl': '{{ site.baseurl }}',
+  }
+</script>
+<script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearchLite.min.js"></script>
+<script src="//cdn.jsdelivr.net/algoliasearch.helper/2.20.1/algoliasearch.helper.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/hogan.js/3.0.2/hogan.min.js"></script>
+<script id="algolia__template" type="text/template">
+    {% raw %}
+    <div class="post-list__post algolia__result">
+        <h2><a class="post-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{
+            _highlightResult.title.value }}}</a></h2>
+        <div class="post-list__content">{{{ _highlightResult.text.value }}}</div>
+    </div>
+    {% endraw %}
+</script>
+<script id="algolia__template--no-results" type="text/template">
+    Не найдено.
+</script>
+
+
 <script src="{{ '/assets/index.js' | relative_url }}"></script>
