@@ -36,7 +36,7 @@ date: 2017-07-23
 {% collapse ссылки %} 
  
 - DSD II: <http://euni.ru/ucheba/yazykovye-kursy/v-germanii/certifikaty/dsd>  
-- Бакалавр в Германии: <https://www.study-in.de/en/plan-your-studies/find-programme-and-university/?  a=result&q=&degree=24&courselanguage=2&locations=&admissionsemester=&sort=name&page=2> 
+- Бакалавр в Германии: <https://www.study-in.de/en/plan-your-studies/find-programme-and-university/?a=result&q=&degree=24&courselanguage=2&locations=&admissionsemester=&sort=name&page=2> 
 - IELTS: <https://www.ielts.org>    
 - TOEFL: <http://www.toefl.ru>  
 
