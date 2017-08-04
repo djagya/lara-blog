@@ -9,18 +9,21 @@ $(function () {
     container.toggleClass('show');
   });
 
-  var waypoint = new Waypoint({
-    element: document.getElementById('disqus_thread'),
-    handler: function () {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
+  const commentsEl = document.getElementById('disqus_thread');
+  if (commentsEl) {
+    var waypoint = new Waypoint({
+      element: commentsEl,
+      handler: function () {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
 
-      waypoint.destroy();
-    },
-    offset: '75%',
-  });
+        waypoint.destroy();
+      },
+      offset: '75%',
+    });
+  }
 });
 
 // Init the search box

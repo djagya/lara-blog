@@ -18,8 +18,8 @@ $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark: darken($grey-color, 25%) !default;
 
-// Width of the content area. 60rem = 960px
-$content-width: 60rem !default;
+// Width of the content area. 67.5rem = 67.5 * 16px = 1080px
+$content-width: 67.5rem !default;
 
 $on-palm: 37.5rem !default;
 $on-laptop: 50rem !default;

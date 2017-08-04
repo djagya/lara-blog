@@ -46,7 +46,7 @@ algolia:
   record_css_selector: "p,ul,div"
   read_only_api_key: "5353370bb8a04b7dde84785c21bcd2b7"
   excluded_files:
-    - index.md
+    - index.html
     - about.md
     - 404.html
 
