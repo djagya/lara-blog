@@ -13,9 +13,12 @@ layout: default
 <aside id="sidebar">
     <div class="sidebar-block me">
         <h6 class="sidebar-header">About</h6>
-        <div>
             <img src="{{ '/assets/images/static/me.jpg' | relative_url }}" title="Me">
-        </div>
+        <p>
+            Привет, я Лара. И этот блог - второй дом для моих <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="nofollow me">текстов</a> из
+            инстаграма...
+            <a href="{{ '/about' | relative_url }}">еще ></a>
+        </p>
     </div>
     <div class="sidebar-block top">
         <h6 class="sidebar-header">Must read</h6>
@@ -24,5 +27,15 @@ layout: default
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
+    </div>
+    <div class="sidebar-block">
+        <h6 class="sidebar-header">Instagram</h6>
+        <!-- LightWidget WIDGET -->
+        <script src="//lightwidget.com/widgets/lightwidget.js" async></script>
+        <iframe src="//lightwidget.com/widgets/5d96298611ab57b9a18fd790d1e31f6d.html"
+                scrolling="no"
+                allowtransparency="true"
+                class="lightwidget-widget"
+                style="width: 100%; border: 0; overflow: hidden;"></iframe>
     </div>
 </aside>

@@ -1,10 +1,10 @@
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
 
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  .header-main {
+    border-bottom: 1px solid $grey-color-light;
+    min-height: $spacing-unit * 1.865;
+  }
 
   @include media-query($on-palm) {
     border-bottom: none;
@@ -49,13 +49,12 @@
 
     .site-title {
       text-align: center;
-      border-bottom: 1px solid $grey-color-light;
       margin: 0 (-$spacing-unit / 2);
     }
 
     .nav-menu {
       text-align: center;
-      margin-left: 0;
+      margin: 0;
     }
 
     .page-link {
@@ -143,9 +142,13 @@
   display: flex;
   justify-content: space-between;
 
+  #main {
+    flex-basis: 75%;
+  }
+
   #sidebar {
     margin-left: $spacing-unit;
-    min-width: 25%;
+    flex-basis: 25%;
   }
 
   @include media-query($on-palm) {
@@ -172,9 +175,15 @@
     text-align: center;
 
     img {
+      margin-bottom: $spacing-unit/2;
+
       @include media-query($on-palm) {
-          max-width: 50%;
+        max-width: 50%;
       }
+    }
+
+    p {
+      text-align: left;
     }
   }
 
