@@ -11,8 +11,18 @@ layout: default
     </div>
 </div>
 <aside id="sidebar">
-    <h6>About</h6>
-    <div>
-        <img src="">
+    <div class="sidebar-block me">
+        <h6 class="sidebar-header">About</h6>
+        <div>
+            <img src="{{ '/assets/images/static/me.jpg' | relative_url }}" title="Me">
+        </div>
+    </div>
+    <div class="sidebar-block top">
+        <h6 class="sidebar-header">Must read</h6>
+        <ul>
+            {% for post in site.categories.top %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
     </div>
 </aside>

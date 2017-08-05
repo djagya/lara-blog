@@ -64,6 +64,13 @@
   }
 }
 
+.header-banner {
+  margin: 0 auto;
+  padding: $spacing-unit/4 0;
+  text-align: center;
+  background-color: white;
+}
+
 /**
  * Site footer
  */
@@ -138,9 +145,46 @@
 
   #sidebar {
     margin-left: $spacing-unit;
+    min-width: 25%;
+  }
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+
+    #sidebar {
+      margin-left: 0;
+    }
   }
 }
 
+#sidebar {
+  .sidebar-block {
+    &:not(:last-child) {
+      margin-bottom: $spacing-unit;
+    }
+  }
+  .sidebar-header {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .me {
+    text-align: center;
+
+    img {
+      @include media-query($on-palm) {
+          max-width: 50%;
+      }
+    }
+  }
+
+  .top {
+    ul {
+      list-style: none;
+      margin: 0;
+    }
+  }
+}
 
 .page-heading {
   @include relative-font-size(1.25);
