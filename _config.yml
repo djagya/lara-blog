@@ -33,7 +33,7 @@ theme: minima
 #  style: compressed
 
 lang: ru
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title/
 date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
 disqus:
