@@ -28,13 +28,12 @@ instagram_username: larisazz
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: /:year/:month/:day/:title.html
 
 #sass:
 #  style: compressed
 
 lang: ru
-permalink: pretty
+permalink: /:year/:month/:day/:title.html
 date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
 disqus:
