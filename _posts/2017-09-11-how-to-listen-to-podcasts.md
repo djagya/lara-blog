@@ -19,6 +19,8 @@ category: top
   ![](/assets/images/2017/09/sloni.jpg)
 {% endimages %}
 
+<!-- -->
+
 Большинство моих подкастов на английском и я считаю, что так прослушивание приносит двойную пользу и тренирует наши уши на восприятие разного стиля разговора. Я слушаю их в [Подкастах](https://www.apple.com/ru/itunes/podcasts/fanfaq.html) на айфоне, приложение [TuneIn](https://tunein.com/get—tunein/) и [Soundcloud](https://soundcloud.com/stream) тоже подойдут.
 
 Я начала с подкаста ["Women of the Hour"](https://itunes.apple.com/ru/podcast/episode—1—friendship/id1049452428?i=1000356401837&mt=2), с выпуска о дружбе и меня сразу так затянуло: удобная форма и манера повествования, с паузами — для таких мечтательных, как я. 

@@ -38,6 +38,7 @@ date_format: "%-d %B %Y"
 google_analytics: "UA-42988641-3"
 disqus:
   shortname: laraexplores
+excerpt_separator: "<!-- -->"
 
 # search engine
 algolia:
