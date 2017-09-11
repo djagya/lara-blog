@@ -5,8 +5,8 @@
 
   .tiles-list__tile {
     position: relative;
-    font-size: 1.25rem;
-    max-width: 170px;
+    font-size: 1.15rem;
+    max-width: 130px;
     margin: $spacing-unit/2 $spacing-unit/8;
 
     img {
@@ -41,7 +41,8 @@
     justify-content: space-between;
 
     .tiles-list__tile {
-      width: 40%;
+      width: 30%;
+      font-size: 0.75rem;
       margin: $spacing-unit/8;
     }
   }
