@@ -267,17 +267,26 @@
   }
 }
 
+.post-list__post, .post {
+  position: relative;
+}
+
 .post-meta {
   color: $grey-color;
   position: relative;
 
-  @media screen and (min-width: $content-width + 6rem) {
-    p {
-      position: absolute;
-      left: -6rem;
-      top: 2rem;
-      text-align: right;
-      max-width: 4rem;
+  @media screen and (min-width: $content-width + 7rem) {
+    position: absolute;
+    left: -8rem;
+    top: 1rem;
+    text-align: right;
+    width: 7rem;
+
+    time {
+      .month:after {
+        content: "\a";
+        white-space: pre;
+      }
     }
   }
 }
