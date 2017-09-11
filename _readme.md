@@ -5,3 +5,8 @@ https://u2844729.ct.sendgrid.net/wf/click?upn=YWod59rAdTTwTUphf-2BOnNZfz0sffKhEK
 Press:
 
 - http://howtogreen.ru/posts/1545-larisazz
+
+
+todo:
+
+- automate images resize
