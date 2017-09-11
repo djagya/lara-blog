@@ -53,13 +53,79 @@ P.S: их почтовая рассылка не дает забыть о выс
 
 Ах да! Я и другие читатели будем рады твоим персональным рекомендациям в комментариях: Может ты слушаешь что-то интересное, может классный подкаст на русском или что-то о искусстве? Не стесняйся поделиться! И спасибо, что читаешь.
 
-- [Women Of The Hour](https://itunes.apple.com/ru/podcast/episode%E2%80%941%E2%80%94friendship/id1049452428?i=1000356401837&mt=2){:target="_blank"}
-- [Strong Opinions Loosely Held](https://itunes.apple.com/us/podcast/strong%E2%80%94opinions%E2%80%94loosely%E2%80%94held/id1109543963?mt=2){:target="_blank"}
-- [10% Happier with Dan Harris](https://itunes.apple.com/us/podcast/10%E2%80%94happier%E2%80%94with%E2%80%94dan%E2%80%94harris/id1087147821){:target="_blank"}
-- [On Being with Krista Tippett](https://itunes.apple.com/us/podcast/on%E2%80%94being%E2%80%94with%E2%80%94krista%E2%80%94tippett/id150892556?mt=2){:target="_blank"}
-- [История культуры, Курсы, Arzamas](https://itunes.apple.com/ru/podcast/istoria%E2%80%94kul%E2%80%94tury%E2%80%94kursy%E2%80%94arzamas/id1001642707){:target="_blank"}
-- [Последние лекции на ПостНауке](https://itunes.apple.com/ru/podcast/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5%E2%80%94%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%E2%80%94%D0%BD%D0%B0%E2%80%94%D0%BF%D0%BE%D1%81%D1%82%D0%BD%D0%B0%D1%83%D0%BA%D0%B5/id1057868694?mt=2){:target="_blank"}
-- [Theory&Practice](https://soundcloud.com/theoryandpractice){:target="_blank"}
+
+<div class="tiles-list">
+    <div class="tiles-list__tile">
+        <img src="http://is1.mzstatic.com/image/thumb/Music71/v4/e0/28/a6/e028a662-8d5c-75c3-b71d-b58d692e8aa8/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/ru/podcast/episode%E2%80%941%E2%80%94friendship/id1049452428?i=1000356401837"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                Women Of The Hour
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="http://is5.mzstatic.com/image/thumb/Music128/v4/f1/91/e6/f191e6b8-889a-c954-00ad-c7ee6f77cf3c/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/us/podcast/strong%E2%80%94opinions%E2%80%94loosely%E2%80%94held/id1109543963"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                Strong Opinions Loosely Held
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="http://is2.mzstatic.com/image/thumb/Music71/v4/96/91/f7/9691f72f-5bfe-37f4-6cab-4b3929d72d3c/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/us/podcast/10%E2%80%94happier%E2%80%94with%E2%80%94dan%E2%80%94harris/id1087147821"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                10% Happier with Dan Harris
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="http://is5.mzstatic.com/image/thumb/Music117/v4/12/b8/ec/12b8ecb5-35cc-b38c-1aff-05f6d56eeb66/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/us/podcast/on%E2%80%94being%E2%80%94with%E2%80%94krista%E2%80%94tippett/id150892556"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                On Being with Krista Tippett
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="http://is2.mzstatic.com/image/thumb/Music111/v4/41/05/1e/41051e8f-17b3-3f3a-b1a5-d748562b4ebc/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/ru/podcast/istoria%E2%80%94kul%E2%80%94tury%E2%80%94kursy%E2%80%94arzamas/id1001642707"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                История культуры | Курсы | Arzamas
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="http://is4.mzstatic.com/image/thumb/Music128/v4/3a/78/d2/3a78d26f-ef65-0ed9-5b20-edba20532f85/source/170x170bb.jpg">
+
+        <a href="https://itunes.apple.com/ru/podcast/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5%E2%80%94%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%E2%80%94%D0%BD%D0%B0%E2%80%94%D0%BF%D0%BE%D1%81%D1%82%D0%BD%D0%B0%D1%83%D0%BA%D0%B5/id1057868694"
+           target="_blank">
+            <div class="tiles-list__tile_content">
+                ПостНаука
+            </div>
+        </a>
+    </div>
+    <div class="tiles-list__tile">
+        <img src="https://i1.sndcdn.com/avatars-000169084572-ezxoip-t500x500.jpg">
+
+        <a href="https://soundcloud.com/theoryandpractice" target="_blank">
+            <div class="tiles-list__tile_content">
+                Theory&Practice
+            </div>
+        </a>
+    </div>
+</div>
+
 
 Keep exploring and stay true,  
 Лара

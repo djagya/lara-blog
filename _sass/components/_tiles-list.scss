@@ -1,0 +1,48 @@
+.tiles-list {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+
+  .tiles-list__tile {
+    position: relative;
+    font-size: 1.25rem;
+    width: 170px;
+    height: 170px;
+    margin: $spacing-unit/2;
+
+    img {
+      border-radius: 10px;
+    }
+
+    a {
+      color: $grey-color-light;
+    }
+
+    .tiles-list__tile_content {
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.6);
+      word-wrap: break-word;
+      border-radius: 10px;
+
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      padding: $spacing-unit/4;
+
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.4);
+        transition: background-color 100ms linear;
+      }
+    }
+  }
+
+  @include media-query($on-palm) {
+    justify-content: space-between;
+
+    .tiles-list__tile {
+      margin: $spacing-unit/8;
+    }
+  }
+}
