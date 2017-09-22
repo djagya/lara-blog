@@ -1,11 +1,11 @@
 .images-row {
   display: flex;
-  max-height: 35rem;
+  //max-height: 35rem;
   align-items: center;
   overflow: hidden;
 
   &:not(:last-child) {
-    margin: 2rem 0;
+    margin: $spacing-unit/2 0;
   }
 
   @include media-query($on-palm) {
