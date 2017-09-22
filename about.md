@@ -30,7 +30,7 @@ permalink: /about/
 - самый первый текст о жизни в Берлине: <http://faces-places.ru/zhizn-v-berline-voskresny-e-ry-nki-internatsional-naya-kuhnya-i-umenie-ostavat-sya-soboj/>
 - интервью для Улан-Удэнской газеты: <http://gazeta-n1.ru/archive/2015/49/38382/>
 
-любопытным: мои тексты можно найти в журналах Heim, Snezhnosti, Stolnik и Melon. 
+любопытным: мои тексты можно найти в журналах [Heim](https://vk.com/heimstudio), [Snezhnosti](https://vk.com/sneznosti) и [Melon](http://www.melonmagazine.ru). 
 
 Stay true & keep exploring,  
 Лара
