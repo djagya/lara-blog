@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About larisazz & this blog
 permalink: /about/
 ---
 
