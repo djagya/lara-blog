@@ -150,6 +150,7 @@
   #sidebar {
     margin-left: $spacing-unit;
     flex-basis: 25%;
+    flex-shrink: 0;
   }
 
   @include media-query($on-palm) {
