@@ -42,5 +42,5 @@ $on-laptop: 50rem !default;
 }
 
 // Import partials.
-@import "minima/base",
-"minima/layout";
+@import "minima/base";
+@import "minima/layout";

@@ -8,23 +8,29 @@ layout: withSidebar
     <div>
         Привет
 
-        <form>
-            <div>
-                <input type="text" placeholder="Имя">
+        <form class="pure-form pure-form-aligned" method="post">
+            <div class="pure-control-group">
+                <label for="name">Имя</label>
+                <input type="text" placeholder="Имя" id="name" name="name" class="pure-input-1-2">
             </div>
-            <div>
-                <input type="email" placeholder="Email">
+            <div class="pure-control-group">
+                <label for="email">Email</label>
+                <input type="email" placeholder="Email" id="email" name="email" required class="pure-input-1-2">
             </div>
-            <div>
-                <input type="text" placeholder="Instagram ник">
+            <div class="pure-control-group">
+                <label for="inst">Instagram ник</label>
+                <input type="text" placeholder="Instagram ник" id="inst" name="inst" class="pure-input-1-2">
             </div>
 
-            <div>
-                <textarea></textarea>
+            <div class="pure-control-group">
+                <label for="text">Вопрос</label>
+                <textarea id="text" name="text" required class="pure-input-1-2" rows="15"></textarea>
             </div>
 
-            <button type="submit">Задать вопрос (чашка кофе - 5€)</button>
+            <div class="pure-controls">
+                <button type="submit" class="pure-button button-warning">Задать вопрос - 5€</button>
+                <button type="submit" class="pure-button button-secondary">Поблагодарить - 5€</button>
+            </div>
         </form>
-
     </div>
 </div>

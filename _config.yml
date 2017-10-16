@@ -28,9 +28,14 @@ instagram_username: larisazz
 # Build settings
 markdown: kramdown
 theme: minima
+exclude: [node_modules, package.json, package-lock.json, Gemfile, Gemfile.lock]
 
-#sass:
+
+sass:
 #  style: compressed
+  load_paths:
+    - _sass
+    - node_modules
 
 lang: ru
 permalink: /:year/:month/:day/:title/
