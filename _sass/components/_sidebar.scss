@@ -1,0 +1,18 @@
+.sidebar-banner {
+  display: none;
+  text-align: center;
+}
+
+.sidebar-banner-desktop {
+  display: block;
+}
+
+@include media-query($on-palm) {
+  .sidebar-banner {
+    display: block;
+  }
+
+  .sidebar-banner-desktop {
+    display: none;
+  }
+}

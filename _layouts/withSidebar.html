@@ -13,9 +13,11 @@ layout: default
 <aside id="sidebar">
     <div class="sidebar-block me">
         <h6 class="sidebar-header">About</h6>
-            <img src="{{ '/assets/images/static/me.jpg' | relative_url }}" title="Me">
+        <img src="{{ '/assets/images/static/me.jpg' | relative_url }}" title="Me">
         <p>
-            Привет, я Лара. И этот блог - второй дом для моих <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="nofollow me">текстов</a> из
+            Привет, я Лара. И этот блог - второй дом для моих
+            <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="nofollow me">текстов</a>
+            из
             инстаграма...
             <a href="{{ '/about' | relative_url }}">еще ></a>
         </p>
@@ -37,5 +39,27 @@ layout: default
                 allowtransparency="true"
                 class="lightwidget-widget"
                 style="width: 100%; border: 0; overflow: hidden;"></iframe>
+    </div>
+    <div class="sidebar-block">
+        <div class="sidebar-banner sidebar-banner-desktop">
+            <a target="_blank"
+               href="https://partner.onetwotrip.com/stats/visit?marker=5220-13819-0-2">
+                <img src="https://partner.onetwotrip.com/banner/13819"
+                     width="240"
+                     height="400"
+                     alt="Все билеты и отели на OneTwoTrip.com"
+                     border="0" />
+            </a>
+        </div>
+        <div class="sidebar-banner">
+            <a target="_blank"
+               href="https://partner.onetwotrip.com/stats/visit?marker=5220-13818-0-2">
+                <img src="https://partner.onetwotrip.com/banner/13818"
+                     width="336"
+                     height="280"
+                     alt="Все билеты и отели на OneTwoTrip.com"
+                     border="0" />
+            </a>
+        </div>
     </div>
 </aside>

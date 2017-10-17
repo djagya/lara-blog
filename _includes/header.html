@@ -9,14 +9,15 @@
                     <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
                 </div>
 
-                {% if page_paths %}
                 <div class="nav-menu">
+                    {% if page_paths %}
                     {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
                     {% if my_page.title %}
                     <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                     {% endif %}
                     {% endfor %}
+                    {% endif %}
 
                     <a class="page-link" href="https://laraexplores.today/" target="_blank">
                         <span class="icon">{% include svg/coffee.svg %}</span><span>Coffee Map</span>
@@ -24,8 +25,10 @@
                     <a class="page-link" href="https://t.me/explorevryday" target="_blank">
                         Telegram
                     </a>
+                    <!--<a class="page-link" href="/contact">-->
+                        <!--Задать вопрос-->
+                    <!--</a>-->
                 </div>
-                {% endif %}
 
                 <div class="search-box">
                     <input placeholder="Search" class="algolia__input js-algolia__input" name="query" type="search"
