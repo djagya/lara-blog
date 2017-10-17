@@ -140,7 +140,6 @@ date: 2017-10-17
  {% images %}
   ![](/assets/images/2017/10/10.jpg)
   ![](/assets/images/2017/10/11.jpg)
-  ![](/assets/images/2017/10/12.jpg)
 {% endimages %}
 
 *Еще раз [вдохновиться](https://www.youtube.com/watch?v=qzR62JJCMBQ) на медитацию и [вдохновиться](https://www.headspace.com/blog/2017/06/13/7-ways-to-be-present/) на [осознанность](http://www.psychologies.ru/self-knowledge/behavior/slojnaya-zadacha-naslajdatsya-povsednevnostyu/).*
