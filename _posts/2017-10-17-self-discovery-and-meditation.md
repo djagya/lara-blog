@@ -20,8 +20,8 @@ date: 2017-10-17
 
 
  {% images %}
-  ![](/assets/images/2017/10/19.jpg)
-  ![](/assets/images/2017/10/21.jpg)
+  ![](/assets/images/2017/10/19.JPG)
+  ![](/assets/images/2017/10/21.JPG)
 {% endimages %}
 
 <!-- -->
