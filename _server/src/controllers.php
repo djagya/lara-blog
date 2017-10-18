@@ -5,6 +5,10 @@ use Symfony\Component\HttpFoundation\Response;
 
 //Request::setTrustedProxies(array('127.0.0.1'));
 
+$app->get('/api/contact', function () {
+   return 'works';
+});
+
 $app->post('/api/contact/webhook', function (Request $request) use ($app) {
     $app['monolog']->info(print_r($request->request->all(), true));
 
