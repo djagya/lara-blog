@@ -158,6 +158,8 @@
 
     #sidebar {
       margin-left: 0;
+      // Hide the sidebar for browsers not supporting flexbox.
+      display: none;
     }
   }
 }
