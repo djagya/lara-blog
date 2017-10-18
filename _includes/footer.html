@@ -8,8 +8,8 @@
             <div class="footer-col footer-col-1">
                 <ul class="contact-list">
                     <li>
-                        {% if site.author %}
-                        {{ site.author | escape }}
+                        {% if site.author.name %}
+                        {{ site.author.name | escape }}
                         {% endif %}
                     </li>
                     {% if site.email %}

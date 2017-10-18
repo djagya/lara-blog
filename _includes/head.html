@@ -7,6 +7,8 @@
     <meta name="description"
           content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 320 | escape }}">
 
+    {% feed_meta %}
+
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,400i,700&amp;subset=cyrillic" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?{{site.time | date: '%s%N'}}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
