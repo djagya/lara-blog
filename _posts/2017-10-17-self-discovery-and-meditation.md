@@ -33,7 +33,7 @@ date: 2017-10-17
 
 *Вдохновиться еще [как](http://www.wonderzine.com/wonderzine/life/life/197665-weekend-relax) и [зачем](http://www.psychologies.ru/self-knowledge/behavior/provodit-vremya-v-odinochestve-polezno/) проводить время в одиночестве.*
 
-### II. Навести порядок в голове  - письменные практики
+### II. Навести порядок в голове  - письменные практики и списки
 
 У каждого из нас есть вопросы, которые постоянно пролетают в уме:
 
