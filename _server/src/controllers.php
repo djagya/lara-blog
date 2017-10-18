@@ -5,6 +5,12 @@ use Symfony\Component\HttpFoundation\Response;
 
 //Request::setTrustedProxies(array('127.0.0.1'));
 
+$app->get('/', function () {
+    return 'works 1';
+});
+$app->get('/api/', function () {
+    return 'works 2';
+});
 $app->get('/api/contact', function () {
    return 'works';
 });
