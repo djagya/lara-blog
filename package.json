@@ -15,7 +15,6 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/djagya/lara-blog#readme",
   "dependencies": {
-    "express": "^4.16.2",
     "purecss-sass": "^1.0.0"
   }
 }
