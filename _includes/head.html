@@ -9,6 +9,23 @@
 
     {% feed_meta %}
 
+    <!-- twitter card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@larisa_zz">
+    <meta name="twitter:title" property="og:title" content="Lara Explores - Blog">
+    <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 320 | escape }}">
+    <!--<meta name="twitter:image" property="og:image" content="http://laraexplores.today/images/twitter.png">-->
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffe9dc">
+
+    <!-- pinterest -->
+    <meta name="p:domain_verify" content="e2eca6b7d12e4e458af0936683d1ff3d" />
+
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,400i,700&amp;subset=cyrillic" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?{{site.time | date: '%s%N'}}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
