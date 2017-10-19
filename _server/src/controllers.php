@@ -16,7 +16,7 @@ $app->post('/api/contact/webhook', function (Request $request) use ($app) {
 
     //    mail('danil.kabluk.backup@gmail.com', '[YourSite] Feedback', 'New message');
 
-    return '';
+    return 'WMI_RESULT=OK';
 });
 
 $app->error(function (\Exception $e, Request $request, $code) use ($app) {
