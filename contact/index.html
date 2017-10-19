@@ -10,12 +10,12 @@ layout: withSidebar
 
         <form class="pure-form pure-form-aligned" method="post"
               action="https://wl.walletone.com/checkout/checkout/Index">
-            <input type="hidden" name="WMI_MERCHANT_ID" value="191584489129"/>
-            <input type="hidden" name="WMI_PAYMENT_AMOUNT" value="5"/>
+            <input type="hidden" name="WMI_MERCHANT_ID" value="{{ site.contact_form.merchant_id }}"/>
+            <input type="hidden" name="WMI_PAYMENT_AMOUNT" value="{{ site.contact_form.amount }}"/>
             <input type="hidden" name="WMI_CURRENCY_ID" value="978"/>
-            <input type="hidden" name="WMI_DESCRIPTION" value="Оплата демонстрационного заказа"/>
-            <input type="hidden" name="WMI_SUCCESS_URL" value="{{'/contact-success' | absolute_url}}"/>
-            <input type="hidden" name="WMI_FAIL_URL" value="{{'/contact-fail' | absolute_url}}"/>
+            <input type="hidden" name="WMI_DESCRIPTION" value="Задать вопрос Ларе"/>
+            <input type="hidden" name="WMI_SUCCESS_URL" value="{{'/contact/success/' | absolute_url}}"/>
+            <input type="hidden" name="WMI_FAIL_URL" value="{{'/contact/fail/' | absolute_url}}"/>
 
             <div class="pure-control-group">
                 <label for="name">Имя</label>

@@ -3,16 +3,12 @@
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
-//Request::setTrustedProxies(array('127.0.0.1'));
+/**
+ * @var \Silex\Application $app
+ */
 
-$app->get('/', function () {
-    return 'works 1';
-});
-$app->get('/api/', function () {
-    return 'works 2';
-});
-$app->get('/api/contact', function () {
-   return 'works';
+$app->post('/api/contact', function () {
+    return 'works';
 });
 
 $app->post('/api/contact/webhook', function (Request $request) use ($app) {

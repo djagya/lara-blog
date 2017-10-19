@@ -24,14 +24,13 @@ author:
   instagram: larisazz
 baseurl: ""
 url: "http://blog.laraexplores.today"
-twitter_username: 
+twitter_username:
 instagram_username: larisazz
 
 # Build settings
 markdown: kramdown
 theme: minima
 exclude: [node_modules, package.json, package-lock.json, Gemfile, Gemfile.lock]
-
 
 sass:
 #  style: compressed
@@ -46,6 +45,10 @@ google_analytics: "UA-42988641-3"
 disqus:
   shortname: laraexplores
 excerpt_separator: "<!-- -->"
+
+contact_form:
+  merchant_id: 165628170877
+  amount: 5
 
 # search engine
 algolia:
