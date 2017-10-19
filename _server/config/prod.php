@@ -8,4 +8,5 @@ use Silex\Provider\MonologServiceProvider;
 
 $app->register(new MonologServiceProvider(), [
     'monolog.logfile' => __DIR__ . '/../var/logs/silex_prod.log',
+    'monolog.level' => \Monolog\Logger::INFO,
 ]);
