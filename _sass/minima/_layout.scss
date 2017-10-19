@@ -274,9 +274,27 @@
   position: relative;
 }
 
+.post-share {
+  & > div, table, iframe {
+    display: inline-block;
+  }
+
+  .fb-share-button > span {
+    vertical-align: unset !important;
+  }
+
+  & > span {
+    vertical-align: super;
+  }
+}
+
 .post-meta {
   color: $grey-color;
   position: relative;
+
+  & > div, table, iframe {
+    display: inline-block;
+  }
 
   @media screen and (min-width: $content-width + 7rem) {
     position: absolute;
@@ -284,6 +302,17 @@
     top: 1rem;
     text-align: right;
     width: 7rem;
+
+    .post-share {
+      .fb-share-button > span {
+        vertical-align: bottom !important;
+      }
+
+      & > div, table, iframe {
+        float: right;
+        margin-bottom: 0.5rem;
+      }
+    }
 
     time {
       .month:after {
@@ -293,4 +322,3 @@
     }
   }
 }
-
