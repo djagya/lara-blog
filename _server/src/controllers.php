@@ -9,6 +9,7 @@ use Symfony\Component\HttpFoundation\Response;
 
 $app->post('/api/contact', function () {
     return 'works';
+
 });
 
 $app->post('/api/contact/webhook', function (Request $request) use ($app) {
