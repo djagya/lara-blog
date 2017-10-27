@@ -11,8 +11,5 @@ $app->register(new ServiceControllerServiceProvider());
 $app->register(new AssetServiceProvider());
 $app->register(new TwigServiceProvider());
 $app->register(new HttpFragmentServiceProvider());
-//$app->register(new Silex\Provider\MonologServiceProvider(), array(
-//    'monolog.logfile' => __DIR__ . '/development.log',
-//));
 
 return $app;
