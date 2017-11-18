@@ -239,17 +239,17 @@ C теплом,
 
 {% collapse Книги Ноября и Зимы %} 
 
-Майкл Соркин: 20 минут на Манхэттене  
-Фоер: Жутко громко, запредельно близко  
-Толстой: Анна Каренина  
-рассказы Бунина : Темные аллеи, Антоновские яблоки, Легкое дыхание  
-Харпер Ли: Убить пересмешника  
-Хемингуэй: Праздник, который всегда с тобой  
-Эмили Нагоски: Как хочет женщина (не пугаться названия)  
-Набоков: Камера обскура  
-Лингво. Языковой пейзаж Европы  
-Замятин: Мы  
-Умберто Эко: Роль читателя  
+[Майкл Соркин: 20 минут на Манхэттене](https://garagemca.org/ru/publishing/michael-sorkin-twenty-minutes-in-manhattan) 
+[Фоер: Жутко громко, запредельно близко](https://www.litres.ru/dzhonatan-foer/zhutko-gromko-i-zapredelno-blizko-4/)  
+[Лев Толстой: Анна Каренина](https://www.litres.ru/lev-tolstoy/anna-karenina-172100/)  
+[рассказы Бунина : Темные аллеи, Антоновские яблоки, Легкое дыхание](https://www.litres.ru/ivan-bunin/antonovskie-yabloki-174093/)  
+[Харпер Ли: Убить пересмешника](https://www.litres.ru/harper-li/ubit-peresmeshnika/)  
+[Хемингуэй: Праздник, который всегда с тобой](https://www.e-reading.club/book.php?book=61840)  
+[Эмили Нагоски: Как хочет женщина (не пугаться названия)](https://www.litres.ru/emili-nagoski/kak-hochet-zhenschina-master-klass-po-nauke-seksa/)  
+[Набоков: Камера обскура](https://www.litres.ru/vladimir-nabokov/kamera-obskura-142838/)  
+[Лингво. Языковой пейзаж Европы](https://www.litres.ru/g-dorren/lingvo-yazykovoy-peyzazh-evropy/)  
+[Замятин: Мы](https://www.litres.ru/evgeniy-zamyatin/my-7444105/) 
+[Умберто Эко: Роль читателя](https://www.litres.ru/umberto-eko/rol-chitatelya-issledovaniya-po-semiotike-teksta/)  
 
 
 Больше книг на канале в [телеграме](https://t.me/explorevryday) по тегу #лараикниги
@@ -272,7 +272,7 @@ C теплом,
 [Rüfus - Bloom](https://itunes.apple.com/ru/album/bloom/1058740883)  
 [Angus & Julia Stone - Snow](https://itunes.apple.com/ru/album/snow/1255285197)  
 [Oddisee - The Good Fight](https://itunes.apple.com/ru/album/the-good-fight/969829649)  
-[Orbital - Wonky](https://itunes.apple.com/ru/album/wonky/1168820908) 
+[Orbital - Wonky](https://itunes.apple.com/ru/album/wonky/1168820908)   
 [Billie Holiday - Jazz at the Philharmonic](https://itunes.apple.com/ru/album/billie-holiday-at-jazz-at-philharmonic-expanded-edition/982406783)  
 
 
