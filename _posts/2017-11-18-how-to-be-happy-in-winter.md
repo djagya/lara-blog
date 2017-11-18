@@ -184,7 +184,7 @@ date: 2017-11-18
 
 {% images %}
   ![](/assets/images/2017/11/rose.JPG)
-  ![](/assets/images/2017/11/bed.JPG)
+  ![](/assets/images/2017/11/mand.JPG)
 {% endimages %}
 
 #### Когда кажется что сил уже нет,
@@ -217,40 +217,42 @@ C теплом,
 
 {% collapse Фильмы Ноября и Зимы %} 
 
-Фарго
-В диких условиях
-Сонная лощина
-Энни холл
-Назад в будущее
-Король Артур
-Академия Рашмор
-Клуб Завтрак
-Бестолковые
-Воображаемая любовь
-Мечтатели
-Персонаж
-Большая рыба
-Бегущий по лезвию 
-Больше фильмов на канале в телеграме https://t.me/explorevryday по тегу #лараикнио
+Фарго  
+В диких условиях  
+Сонная лощина  
+Энни холл  
+Назад в будущее  
+Король Артур   
+Академия Рашмор  
+Клуб Завтрак  
+Бестолковые  
+Воображаемая любовь  
+Мечтатели  
+Персонаж  
+Большая рыба  
+Бегущий по лезвию  
+ 
+Больше фильмов на канале в [телеграме](https://t.me/explorevryday) по тегу #лараикнио
 
 {% endcollapse %}
 
 
 {% collapse Книги Ноября и Зимы %} 
 
-Майкл Соркин: 20 минут на Манхэттене
-Фоер: Жутко громко, запредельно близко
-Толстой: Анна Каренина
-рассказы Бунина : Темные аллеи, Антоновские яблоки, Легкое дыхание
-Харпер Ли: Убить пересмешника
-Хемингуэй: Праздник, который всегда с тобой
-Эмили Нагоски: Как хочет женщина (не пугаться названия)
-Набоков: Камера обскура
-Лингво. Языковой пейзаж Европы
-Замятин: Мы
-Умберто Эко: Роль читателя
+Майкл Соркин: 20 минут на Манхэттене  
+Фоер: Жутко громко, запредельно близко  
+Толстой: Анна Каренина  
+рассказы Бунина : Темные аллеи, Антоновские яблоки, Легкое дыхание  
+Харпер Ли: Убить пересмешника  
+Хемингуэй: Праздник, который всегда с тобой  
+Эмили Нагоски: Как хочет женщина (не пугаться названия)  
+Набоков: Камера обскура  
+Лингво. Языковой пейзаж Европы  
+Замятин: Мы  
+Умберто Эко: Роль читателя  
 
-Больше книг на канале в телеграме https://t.me/explorevryday по тегу #лараикниги
+
+Больше книг на канале в [телеграме](https://t.me/explorevryday) по тегу #лараикниги
 
 {% endcollapse %}
 
@@ -259,21 +261,22 @@ C теплом,
 
 Мой профиль на [Spotify](https://open.spotify.com/user/larisazz) с альбомами и плейлистами 
 
-The Guts - Want it Back
-Neat Beats - Cosmic Surgery
-Moglii - Naboo
-Romare - Motherless Child
-Scattle - Sketch 
-Bonobo - Days To come
-The Blaze - Territory
-Bad Bad Not Good - IV
-Rüfus - Bloom
-Angus & Julia Stone - Snow
-Oddisee - The Good Fight
-Orbital - Wonky
-Billie Holiday - Jazz at the Philharmonic
+The Guts - Want it Back  
+Neat Beats - Cosmic Surgery  
+Moglii - Naboo  
+Romare - Motherless Child  
+Scattle - Sketch     
+Bonobo - Days To come  
+The Blaze - Territory  
+Bad Bad Not Good - IV  
+Rüfus - Bloom  
+Angus & Julia Stone - Snow  
+Oddisee - The Good Fight  
+Orbital - Wonky  
+Billie Holiday - Jazz at the Philharmonic  
 
-Больше музыки на канале в телеграме https://t.me/explorevryday по тегу #лараимузыка
+
+Больше музыки на канале в [телеграме](https://t.me/explorevryday) по тегу #лараимузыка
 
 {% endcollapse %}
 
@@ -281,7 +284,7 @@ Billie Holiday - Jazz at the Philharmonic
 
 {% collapse Статьи Ноября и Зимы %} 
 
-Я не хочу спамить тут списком ведь его нельзя так просто сохранить себе в заметки. Всеми ссылками я делюсь тут https://t.me/explorevryday
+Я не хочу спамить тут списком ведь его нельзя так просто сохранить себе в заметки. Всеми ссылками я делюсь [тут](https://t.me/explorevryday).
 
 {% endcollapse %}
 
