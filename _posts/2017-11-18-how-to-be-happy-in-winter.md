@@ -222,7 +222,7 @@ C теплом,
 [Энни холл](https://www.kinopoisk.ru/film/enni-kholl-1977-390/)  
 [Назад в будущее](https://www.kinopoisk.ru/film/nazad-v-budushhee-1985-476/)  
 [Меч король Артура](https://www.kinopoisk.ru/film/mech-korolya-artura-2017-824437/)   
-[Академия Рашмор](https://www.kinopoisk.ru/film/akademiya-rashmor-1998-3586/) 
+[Академия Рашмор](https://www.kinopoisk.ru/film/akademiya-rashmor-1998-3586/)   
 [Клуб Завтрак](https://www.kinopoisk.ru/film/klub-zavtrak-1985-21844/)  
 [Бестолковые](https://www.kinopoisk.ru/film/bestolkovye-1995-9411/)  
 [Воображаемая любовь](https://www.kinopoisk.ru/film/voobrazhaemaya-lyubov-2010-503657/)  
