@@ -141,12 +141,12 @@ date: 2017-11-18
 *"Ничего не хочется, нет мотивации, хочу просто лечь и уснуть"*
 
 **Система**   
-К отсутствию сил можно снова применить вопрос приоритезации дел, а еще неплохо бы иметь план на день для оптимального расходования своей энергии. Потому что, может быть так, что у тебя хаотичный ум - ты крутишься, крутишься, делаешь, а в итоге ничего не сделано. Это мой случай и в этом году я начала вести в заметках списки задач каждый день: с вечера я пишу, что мне нужно завтра сделать - разбиваю день до самых маленьких дел, например: *"заварить кофе + снять, 
+К отсутствию сил можно снова применить вопрос приоритезации дел, а еще неплохо бы иметь план на день для оптимального расходования своей энергии. Потому что может быть так, что у тебя хаотичный ум - ты крутишься, крутишься, делаешь, а в итоге ничего не сделано. Это мой случай и в этом году я начала вести в заметках списки задач каждый день: с вечера я пишу, что мне нужно завтра сделать - разбиваю день до самых маленьких дел, например: *"заварить кофе + снять, 
 ответить Лизе на письмо, 
 сделать скрин карты в сторис, 
 пары - книга и перевод, вернуть одежду в магазин, по пути домой - сливки и пармезан, дописать текст о приложениях"*    
 
-И в течении дня я ставлю галочки, сверяюсь с планом, чтобы не держать все за раз в голове и никуда не спешу. Мне не нужно утром приходить в себя и судорожно листать память в поисках того, что я задумала - у меня все уже записано и я могу расслабленно приступать к делам после чашки черного. 
+И в течении дня я ставлю галочки, сверяюсь с планом, чтобы не держать все за раз в голове и никуда не спешу. Мне не нужно утром приходить в себя и судорожно листать память в поисках того, что я задумала - у меня все уже записано и я могу расслабленно приступать к делам после чашки кофе. 
 
 **Хорошее питание и циркуляция крови**  
 Давай себе правильную энергию и используй еду с умом, как топливо. 
@@ -261,19 +261,19 @@ C теплом,
 
 Мой профиль на [Spotify](https://open.spotify.com/user/larisazz) с альбомами и плейлистами 
 
-The Guts - Want it Back  
-Neat Beats - Cosmic Surgery  
-Moglii - Naboo  
-Romare - Motherless Child  
-Scattle - Sketch     
-Bonobo - Days To come  
-The Blaze - Territory  
-Bad Bad Not Good - IV  
-Rüfus - Bloom  
-Angus & Julia Stone - Snow  
-Oddisee - The Good Fight  
-Orbital - Wonky  
-Billie Holiday - Jazz at the Philharmonic  
+[The Guts - Want it Back](https://itunes.apple.com/ru/album/want-it-back-ep/950998748)  
+[Neat Beats - Cosmic Surgery]()  
+[Moglii - Naboo](https://itunes.apple.com/ru/album/naboo/1236096128)  
+[Romare - Projections](https://itunes.apple.com/ru/album/projections/946868092)  
+[Scattle - Sketch](https://itunes.apple.com/ru/album/sketch/1201477132)     
+[Bonobo - Days To come](https://itunes.apple.com/ru/album/days-to-come/416319613)  
+[The Blaze - Territory](https://itunes.apple.com/ru/album/territory-ep/1203811796)  
+[BadBadNotGood - IV](https://itunes.apple.com/ru/album/iv/1169224736)  
+[Rüfus - Bloom](https://itunes.apple.com/ru/album/bloom/1058740883)  
+[Angus & Julia Stone - Snow](https://itunes.apple.com/ru/album/snow/1255285197)  
+[Oddisee - The Good Fight](https://itunes.apple.com/ru/album/the-good-fight/969829649)  
+[Orbital - Wonky](https://itunes.apple.com/ru/album/wonky/1168820908) 
+[Billie Holiday - Jazz at the Philharmonic](https://itunes.apple.com/ru/album/billie-holiday-at-jazz-at-philharmonic-expanded-edition/982406783)  
 
 
 Больше музыки на канале в [телеграме](https://t.me/explorevryday) по тегу #лараимузыка
