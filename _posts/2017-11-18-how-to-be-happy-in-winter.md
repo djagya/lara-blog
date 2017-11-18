@@ -37,7 +37,7 @@ date: 2017-11-18
 - Утеплиться и вспомнить об аксессуарах  
 - Любить и обнимать крепко   
 - Проводить вечера интересно и разноообразить повседневность  
-[Готовить и печь](https://www.pinterest.de/search/pins/?q=winter%20baking&rs=typed&term_meta[]=winter%7Ctyped&term_meta[]=baking%7Ctyped) осознанно и с удовольствием  
+- [Готовить и печь](https://www.pinterest.de/search/pins/?q=winter%20baking&rs=typed&term_meta[]=winter%7Ctyped&term_meta[]=baking%7Ctyped) осознанно и с удовольствием  
 - Украсить дом и обновить пространство   
 - Мечтать и одеваться под state of mind   
 - Исследовать - спланировать что и как   
