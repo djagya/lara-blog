@@ -1,3 +1,44 @@
+#sidebar {
+  .sidebar-block {
+    &:not(:last-child) {
+      margin-bottom: $spacing-unit;
+    }
+  }
+  .sidebar-header {
+    text-align: center;
+    font-size: 1.3rem;
+    letter-spacing: 4px;
+    font-weight: 300;
+  }
+
+  .me {
+    text-align: center;
+
+    img {
+      margin-bottom: $spacing-unit/2;
+
+      @include media-query($on-palm) {
+        max-width: 50%;
+      }
+    }
+
+    p {
+      text-align: left;
+    }
+  }
+
+  .top {
+    ul {
+      list-style: none;
+      margin: 0;
+
+      li {
+        margin-bottom: $spacing-unit/2;
+      }
+    }
+  }
+}
+
 .sidebar-banner {
   display: none;
   text-align: center;

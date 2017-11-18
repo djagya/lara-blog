@@ -3,17 +3,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{%
+        endif %}</title>
     <meta name="description"
           content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 320 | escape }}">
 
     {% feed_meta %}
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffe9dc">
+
+    <!-- pinterest -->
+    <meta name="p:domain_verify" content="e2eca6b7d12e4e458af0936683d1ff3d"/>
+
+    <!-- facebook -->
+    <meta property="og:type" content="article"/>
+    <meta property="og:url"
+          content="{{ page.url | absolute_url }}"/>
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{%
+        endif %}"/>
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 320 | escape }}"/>
+
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,400i,700&amp;subset=cyrillic" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?{{site.time | date: '%s%N'}}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
+    <!-- twitter card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@larisa_zz">
+    <meta name="twitter:creator" content="@larisa_zz">
+
     {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
     {% endif %}
+
+    <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
 </head>

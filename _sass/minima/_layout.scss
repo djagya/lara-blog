@@ -164,47 +164,11 @@
   }
 }
 
-#sidebar {
-  .sidebar-block {
-    &:not(:last-child) {
-      margin-bottom: $spacing-unit;
-    }
-  }
-  .sidebar-header {
-    text-align: center;
-    font-size: 1.5rem;
-  }
-
-  .me {
-    text-align: center;
-
-    img {
-      margin-bottom: $spacing-unit/2;
-
-      @include media-query($on-palm) {
-        max-width: 50%;
-      }
-    }
-
-    p {
-      text-align: left;
-    }
-  }
-
-  .top {
-    ul {
-      list-style: none;
-      margin: 0;
-
-      li {
-        margin-bottom: $spacing-unit/2;
-      }
-    }
-  }
-}
-
 .page-heading {
   @include relative-font-size(1.25);
+  font-size: 1.3rem;
+  letter-spacing: 4px;
+  font-weight: 300;
 }
 
 .post-list {
@@ -233,12 +197,12 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(1.5);
   }
 }
 
@@ -274,9 +238,27 @@
   position: relative;
 }
 
+.post-share {
+  & > div, table, iframe {
+    display: inline-block;
+  }
+
+  .fb-share-button > span {
+    vertical-align: unset !important;
+  }
+
+  & > span {
+    vertical-align: super;
+  }
+}
+
 .post-meta {
   color: $grey-color;
   position: relative;
+
+  & > div, table, iframe {
+    display: inline-block;
+  }
 
   @media screen and (min-width: $content-width + 7rem) {
     position: absolute;
@@ -284,6 +266,17 @@
     top: 1rem;
     text-align: right;
     width: 7rem;
+
+    .post-share {
+      .fb-share-button > span {
+        vertical-align: bottom !important;
+      }
+
+      & > div, table, iframe {
+        float: right;
+        margin-bottom: 0.5rem;
+      }
+    }
 
     time {
       .month:after {
@@ -293,4 +286,3 @@
     }
   }
 }
-
