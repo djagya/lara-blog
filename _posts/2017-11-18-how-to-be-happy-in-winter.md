@@ -262,7 +262,7 @@ C теплом,
 Мой профиль на [Spotify](https://open.spotify.com/user/larisazz) с альбомами и плейлистами 
 
 [The Guts - Want it Back](https://itunes.apple.com/ru/album/want-it-back-ep/950998748)  
-[Neat Beats - Cosmic Surgery]()  
+[Neat Beats - Cosmic Surgery](https://open.spotify.com/album/0zlLi9xAKvF6fDVIW4XZbJ)  
 [Moglii - Naboo](https://itunes.apple.com/ru/album/naboo/1236096128)  
 [Romare - Projections](https://itunes.apple.com/ru/album/projections/946868092)  
 [Scattle - Sketch](https://itunes.apple.com/ru/album/sketch/1201477132)     
