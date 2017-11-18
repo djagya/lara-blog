@@ -32,22 +32,22 @@ date: 2017-11-18
 
 #### Итак, что нам с тобой предстоит:
 
-Быть готовым и принимать то, что есть   
-Найти или создать свой [согревающий напиток](https://www.pinterest.de/search/pins/?q=winter%20hot%20drink&rs=typed&term_meta[]=winter%7Ctyped&term_meta[]=hot%7Ctyped&term_meta[]=drink%7Ctyped)  
-Утеплиться и вспомнить об аксессуарах  
-Любить и обнимать крепко   
-Проводить вечера интересно и разноообразить повседневность  
+- Быть готовым и принимать то, что есть   
+- Найти или создать свой [согревающий напиток](https://www.pinterest.de/search/pins/?q=winter%20hot%20drink&rs=typed&term_meta[]=winter%7Ctyped&term_meta[]=hot%7Ctyped&term_meta[]=drink%7Ctyped)  
+- Утеплиться и вспомнить об аксессуарах  
+- Любить и обнимать крепко   
+- Проводить вечера интересно и разноообразить повседневность  
 [Готовить и печь](https://www.pinterest.de/search/pins/?q=winter%20baking&rs=typed&term_meta[]=winter%7Ctyped&term_meta[]=baking%7Ctyped) осознанно и с удовольствием  
-Украсить дом и обновить пространство   
-Мечтать и одеваться под state of mind   
-Исследовать - спланировать что и как   
-Становиться лучше маленькими шагами  
-Написать [план](http://www.teaandtwigs.de/ultimate-bulletjournal-set-up-2017/) на следующий год    
-Вспоминать и создавать свои традиции  
-Смастерить [рождественский календарь](https://www.pinterest.de/search/pins/?q=advent%20calender&rs=typed&term_meta[]=advent%7Ctyped&term_meta[]=calender%7Ctyped) или разослать открытки 
-Вспомнить то, что ты раньше любил  
-Принимать [ванную со свечами, молоком или солью](https://www.pinterest.de/search/pins/?q=salt%20milk%20bath&rs=typed&term_meta[]=salt%7Ctyped&term_meta[]=milk%7Ctyped&term_meta[]=bath%7Ctyped)  
-Вести [списки](https://www.instagram.com/explore/tags/лараисписки/) любимого или дневник памяти  
+- Украсить дом и обновить пространство   
+- Мечтать и одеваться под state of mind   
+- Исследовать - спланировать что и как   
+- Становиться лучше маленькими шагами  
+- Написать [план](http://www.teaandtwigs.de/ultimate-bulletjournal-set-up-2017/) на следующий год    
+- Вспоминать и создавать свои традиции  
+- Смастерить [рождественский календарь](https://www.pinterest.de/search/pins/?q=advent%20calender&rs=typed&term_meta[]=advent%7Ctyped&term_meta[]=calender%7Ctyped) или разослать открытки 
+- Вспомнить то, что ты раньше любил  
+- Принимать [ванную со свечами, молоком или солью](https://www.pinterest.de/search/pins/?q=salt%20milk%20bath&rs=typed&term_meta[]=salt%7Ctyped&term_meta[]=milk%7Ctyped&term_meta[]=bath%7Ctyped)  
+- Вести [списки](https://www.instagram.com/explore/tags/лараисписки/) любимого или дневник памяти  
 
 Главные герои: ты, мягкое постельное белье, пара свечей, гирлянда, большое одеяло, эфирные масла, травяные чаи, музыкальные альбомы, фильмы, термос и шарф.
 
