@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: 'Exo 2', sans-serif;
+$base-font-family: 'Open Sans', sans-serif;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
@@ -12,7 +12,7 @@ $spacing-unit: 30px !default;
 
 $text-color: rgba(0, 0, 0, 0.8);
 $background-color: #fdfdfd !default;
-$brand-color: #2a7ae2 !default;
+$brand-color: #98402F !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -44,3 +44,7 @@ $on-laptop: 50rem !default;
 // Import partials.
 @import "minima/base";
 @import "minima/layout";
+
+#main {
+  line-height: 1.6;
+}
