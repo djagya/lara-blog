@@ -4,7 +4,9 @@
   background-color: #ffee58;
 
   .collapse__expand {
-
+    margin: 0.4rem;
+    text-decoration: none;
+    display: inline-block;
   }
 
   .collapse__content {
@@ -23,8 +25,5 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
     word-break: break-word;
-    margin: 0.4rem;
-    display: inline-block;
-    text-decoration: none;
   }
 }
