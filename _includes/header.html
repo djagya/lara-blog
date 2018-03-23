@@ -6,7 +6,7 @@
 
             <nav class="site-nav">
                 <div class="site-title">
-                    <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+                    <a href="{{ '/' | relative_url }}">Лара и Блог</a>
                 </div>
 
                 <div class="nav-menu">
@@ -19,11 +19,11 @@
                     {% endfor %}
                     {% endif %}
 
-                    <a class="page-link" href="https://laraexplores.today/" target="_blank">
-                        <span class="icon">{% include svg/coffee.svg %}</span><span>Coffee Map</span>
+                    <a class="page-link" href="https://laraexplores.today/berlin" target="_blank">
+                        <span class="icon">{% include svg/coffee.svg %}</span><span>Кофе Карта Берлина</span>
                     </a>
                     <a class="page-link" href="https://t.me/explorevryday" target="_blank">
-                        Telegram
+                        Телеграм
                     </a>
                     <!--<a class="page-link" href="/contact/">-->
                         <!--Задать вопрос-->
@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="search-box">
-                    <input placeholder="Search" class="algolia__input js-algolia__input" name="query" type="search"
+                    <input placeholder="Поиск" class="algolia__input js-algolia__input" name="query" type="search"
                            id="search" autocomplete="off" />
                     <span class="icon">{% include svg/search-button.svg %}</span>
                 </div>

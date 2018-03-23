@@ -9,6 +9,10 @@
   @include media-query($on-palm) {
     border-bottom: none;
   }
+
+  a {
+    text-decoration: none;
+  }
 }
 
 .site-nav {
@@ -232,10 +236,20 @@
     border: none;
     height: 1px;
   }
+
+  a {
+    text-decoration: underline;
+  }
 }
 
 .post-list__post, .post {
   position: relative;
+}
+
+.post-list__content {
+  a {
+    text-decoration: underline;
+  }
 }
 
 .post-share {
