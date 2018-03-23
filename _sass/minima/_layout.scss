@@ -8,6 +8,10 @@
 
   @include media-query($on-palm) {
     border-bottom: none;
+
+    .header-main .wrapper {
+      padding: 0;
+    }
   }
 
   a {
