@@ -62,7 +62,7 @@ algolia:
     - 404.html
 
 plugins:
-  - algoliasearch-jekyll
+  - jekyll-algolia
   - jekyll-sitemap
   - jekyll-feed
 

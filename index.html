@@ -10,6 +10,26 @@ layout: withSidebar
                 <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
                     <span class="month">{{ post.date | date: "%d %B" }}</span> <span>{{ post.date | date: "%Y" }}</span>
                 </time>
+
+                <div class="post-share">
+                    <div class="fb-share-button"
+                         data-href="{{ post.url | absolute_url}}"
+                         data-layout="button_count" data-size="small" data-mobile-iframe="true">
+                        <a class="fb-xfbml-parse-ignore"
+                           target="_blank"
+                           href="https://www.facebook.com/sharer/sharer.php?u={{ post.url | absolute_url}}">Поделиться</a>
+                    </div>
+
+                    <script type="text/javascript">
+                      document.write(VK.Share.button({ url: '{{ post.url | absolute_url}}' }, {
+                        type: 'round',
+                        text: 'Share',
+                      }));
+                    </script>
+
+                    <a class="twitter-share-button"
+                       href="https://twitter.com/intent/tweet?text={{post.title | escape}}url={{post.url | absolute_url}}">Tweet</a>
+                </div>
             </div>
 
             <h2>
