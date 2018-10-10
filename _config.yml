@@ -41,7 +41,7 @@ sass:
 lang: ru
 permalink: /:year/:month/:day/:title/
 date_format: "%-d %B %Y"
-google_analytics: "UA-42988641-3"
+google_analytics: "UA-42988641-6"
 disqus:
   shortname: laraexplores
 excerpt_separator: "<!-- -->"
