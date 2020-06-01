@@ -30,7 +30,7 @@ instagram_username: larisazz
 # Build settings
 markdown: kramdown
 theme: minima
-exclude: [node_modules, package.json, package-lock.json, Gemfile, Gemfile.lock]
+exclude: [vendor, node_modules, package.json, package-lock.json, Gemfile, Gemfile.lock]
 
 sass:
 #  style: compressed
